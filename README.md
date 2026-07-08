@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Sakshi Singh 👋
 
-<!--
-**sakshis30/sakshis30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Computer Science student at Paderborn University, Germany
 
-Here are some ideas to get you started:
+I enjoy building intelligent systems that combine **Machine Learning, Data Science, and Data Engineering** to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests include:
+
+- 🤖 Machine Learning
+- 📊 Data Science
+- ⚙️ Data Engineering
+- 🧠 Trustworthy AI
+- 🔍 Information Retrieval & Entity Linking
+- 🔐 Privacy-Preserving AI
+
+
+## 🔬 Currently Working On
+
+- Master's Thesis on Uncertainty Estimation for Entity Linking
+- EEG Privacy Demonstrator
+- Job Recommendation Platform (Data Engineering + NLP + ML)
+
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Python • SQL • Java • R
+
+**Machine Learning**
+
+Scikit-learn • TensorFlow • PyTorch • Hugging Face
+
+**Data Engineering**
+
+Azure Databricks • Azure Data Factory • Spark • PostgreSQL
+
+**Tools**
+
+Git • Docker • Linux • FastAPI • Streamlit
+
+
+## 📌 Featured Projects
+
+- 🧠 EEG Privacy Demonstrator
+- 🌍 Rockfall Detection on Mars & Moon
+- ⭐ Amazon Review Sentiment Analysis
+- 🚀 Job Recommendation Platform *(In Progress)*
+
+
+## 🌱 Currently Learning
+
+- Apache Kafka
+- MLflow
+- Advanced Spark
+- MLOps
+
+
+## 📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/sakshi-singh-368423198/
+
+Email: singhsakshi.0130@gmail.com

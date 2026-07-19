@@ -33,7 +33,7 @@ Scikit-learn • TensorFlow • PyTorch • Hugging Face
 
 **Data Engineering**
 
-Azure Databricks • Azure Data Factory • Spark • PostgreSQL
+Azure Databricks • Azure Data Factory • ETL Pipelines
 
 **Tools**
 

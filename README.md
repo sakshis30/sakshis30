@@ -45,7 +45,6 @@ Git • Docker • Linux • FastAPI • Streamlit
 - 🧠 EEG Privacy Demonstrator
 - 🌍 Rockfall Detection on Mars & Moon
 - ⭐ Amazon Review Sentiment Analysis
-- 🚀 Job Recommendation Platform *(In Progress)*
 
 
 ## 🌱 Currently Learning
